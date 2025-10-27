@@ -1,7 +1,15 @@
 # shell_script
 
 ---
+### Review: Key Shell Scripting Points
+echo: outputs text.
 
+read: grabs user input and stores it.
+
+if/else/elif: tests conditions and runs code based on them.
+
+for: repeats actions for each item in a list or set.
+---
 1. Starting a Script (Shebang)
 Shebang tells the computer which shell to use. Add this at the very top of your script:
 
@@ -92,11 +100,3 @@ Current fruit: cherry
 
 Quick practice: What lines will be printed if you add "mango" to the fruits array?
 
-# Review: Key Shell Scripting Points
-## echo: outputs text.
-
-## read: grabs user input and stores it.
-
-## if/else/elif: tests conditions and runs code based on them.
-
-## for: repeats actions for each item in a list or set.
